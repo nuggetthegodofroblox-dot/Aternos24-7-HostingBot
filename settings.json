@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "hello123playing",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
+    "ip": "specialsmp.gimzonodes.space:26402",
     "port": 25565,
     "version": "",
     "try-creative": false
